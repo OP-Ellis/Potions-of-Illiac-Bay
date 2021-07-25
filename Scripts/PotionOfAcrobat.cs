@@ -26,7 +26,7 @@ namespace NewPotionsForApothecaries
         {
             EffectSettings climbingSettings = SetEffectMagnitude(DefaultEffectSettings(), 8, 8, 7, 7, 1);
             PotionRecipe climbing = new PotionRecipe(
-                "Acrobat",
+                "climbing",
                 158,
                 DefaultEffectSettings(),
                 (int)PlantIngredients2.Green_berries,

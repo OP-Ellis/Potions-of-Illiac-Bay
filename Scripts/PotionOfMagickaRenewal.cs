@@ -27,8 +27,8 @@ namespace NewPotionsForApothecaries
         {
             EffectSettings healspellpointslogicSettings = new EffectSettings();
             healspellpointslogicSettings = SetEffectMagnitude(healspellpointslogicSettings, 36, 36, 11, 11, 1);
-            PotionRecipe healspellpointslogic= new PotionRecipe(
-                "Magicka Renewal",
+            PotionRecipe healspellpointslogic = new PotionRecipe(
+                "magicka",
                 164,
                 healspellpointslogicSettings,
                 (int)MiscellaneousIngredients1.Nectar,

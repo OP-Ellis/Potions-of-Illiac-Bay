@@ -27,8 +27,8 @@ namespace NewPotionsForApothecaries
         public override void SetPotionProperties()
         {
             EffectSettings spellabsorptionSettings = SetEffectMagnitude(DefaultEffectSettings(), 5, 5, 8, 8, 1);
-            PotionRecipe spellabsorption= new PotionRecipe(
-                "Magic Absorption",
+            PotionRecipe spellabsorption = new PotionRecipe(
+                "spellAbsorption",
                 162,
                 DefaultEffectSettings(),
                 (int)CreatureIngredients3.Unicorn_horn,

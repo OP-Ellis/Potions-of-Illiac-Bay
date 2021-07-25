@@ -29,7 +29,7 @@ namespace NewPotionsForApothecaries
         public override void SetPotionProperties()
         {
             PotionRecipe dispelundead = new PotionRecipe(
-                "Holy Aura",
+                "light",
                 159,
                 DefaultEffectSettings(),
                 (int)PlantIngredients2.Palm,

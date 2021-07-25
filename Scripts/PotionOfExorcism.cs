@@ -29,7 +29,7 @@ namespace NewPotionsForApothecaries
         public override void SetPotionProperties()
         {
             PotionRecipe dispeldaedra = new PotionRecipe(
-                "Exorcism",
+                "Banishment",
                 157,
                 DefaultEffectSettings(),
                 (int)CreatureIngredients1.Ectoplasm,

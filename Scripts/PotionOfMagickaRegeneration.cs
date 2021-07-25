@@ -28,7 +28,7 @@ namespace NewPotionsForApothecaries
         {
             EffectSettings regeneratespellpointsSettings = SetEffectMagnitude(DefaultEffectSettings(), 10, 10, 6, 6, 1);
             PotionRecipe regeneratespellpoints = new PotionRecipe(
-                "Magicka Regeneration",
+                "regenerate",
                 165,
                 regeneratespellpointsSettings,
                 (int)MiscellaneousIngredients1.Rain_water,

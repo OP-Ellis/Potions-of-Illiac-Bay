@@ -25,8 +25,8 @@ namespace NewPotionsForApothecaries
         public override void SetPotionProperties()
         {
             EffectSettings createitemSettings = SetEffectMagnitude(DefaultEffectSettings(), 6, 6, 7, 7, 1);
-            PotionRecipe createitem= new PotionRecipe(
-                "Forge",
+            PotionRecipe createitem = new PotionRecipe(
+                "exteriorAutomapBuildingTypeWeaponSmith",
                 161,
                 DefaultEffectSettings(),
                 (int)CreatureIngredients1.Giant_blood,

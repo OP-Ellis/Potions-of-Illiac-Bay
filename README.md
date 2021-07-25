@@ -38,3 +38,9 @@ Remove "potions of illiac bay.dfmod" file from DaggerfallUnity_Data\StreamingAss
 
 *I plan to update this mod in the future, hopefully adding potions into system of shops.
 Also hope to make more mods expanding upon alchemy and potion crafting system*
+
+
+
+Development notes
+Locale_text_error:
+Custom names doesn't seem to be supported for potions. Have to use Internal strings for now.

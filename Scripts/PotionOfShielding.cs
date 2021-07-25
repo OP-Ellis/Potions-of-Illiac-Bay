@@ -26,8 +26,8 @@ namespace NewPotionsForApothecaries
         public override void SetPotionProperties()
         {
             EffectSettings shieldSettings = SetEffectMagnitude(DefaultEffectSettings(), 5, 5, 8, 8, 1);
-            PotionRecipe shield= new PotionRecipe(
-                "Shielding",
+            PotionRecipe shield = new PotionRecipe(
+                "shield",
                 163,
                 DefaultEffectSettings(),
                 (int)MiscellaneousIngredients1.Medium_tooth,

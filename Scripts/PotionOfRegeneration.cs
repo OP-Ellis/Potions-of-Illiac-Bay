@@ -27,7 +27,7 @@ namespace NewPotionsForApothecaries
         {
             EffectSettings regenerateSettings = SetEffectMagnitude(DefaultEffectSettings(), 6, 6, 7, 7, 1);
             PotionRecipe regenerate = new PotionRecipe(
-                "Regeneration",
+                "regenerateHealth",
                 155,
                 DefaultEffectSettings(),
                 (int)MiscellaneousIngredients1.Rain_water,

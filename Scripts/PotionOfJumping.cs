@@ -26,7 +26,7 @@ namespace NewPotionsForApothecaries
         {
             EffectSettings jumpingSettings = SetEffectMagnitude(DefaultEffectSettings(), 7, 7, 7, 7, 1);
             PotionRecipe jumping = new PotionRecipe(
-                "Jumping",
+                "jumping",
                 156,
                 DefaultEffectSettings(),
                 (int)PlantIngredients2.Bamboo,

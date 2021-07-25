@@ -28,7 +28,7 @@ namespace NewPotionsForApothecaries
         {
             EffectSettings comprehendlanguagesSettings = SetEffectMagnitude(DefaultEffectSettings(), 8, 8, 7, 7, 1);
             PotionRecipe comprehendlanguages = new PotionRecipe(
-                "Ambassador",
+                "comprehendLanguages",
                 154,
                 DefaultEffectSettings(),
                 (int)MiscellaneousIngredients1.Pure_water,

@@ -27,8 +27,8 @@ namespace NewPotionsForApothecaries
         public override void SetPotionProperties()
         {
             EffectSettings spellresistanceSettings = SetEffectMagnitude(DefaultEffectSettings(), 7, 7, 7, 7, 1);
-            PotionRecipe spellresistance= new PotionRecipe(
-                "Arcane Protection",
+            PotionRecipe spellresistance = new PotionRecipe(
+                "spellResistance",
                 160,
                 DefaultEffectSettings(),
                 (int)CreatureIngredients1.Lich_dust,
