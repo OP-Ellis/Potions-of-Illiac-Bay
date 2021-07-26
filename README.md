@@ -11,18 +11,18 @@ So even if you do not plan to create or buy potions from guild services, you sti
 **NEW POTIONS:**
 [All new potions function in similar way to every other potion, so effects will scale with character level]
 
-1) Potion of Ambassador - > provides with Comperhend Language effect.
-2) Potion of Regeneration - > provides with healing over time effect.
+1) Potion of Comprehend Languages - > provides with Comperhend Language effect.
+2) Potion of Regenerate Health - > provides with healing over time effect.
 3) Potion of Jumping - > provides with jump boosting effect.
-4) Potion of Exorcism - > provides with ability to destroy daedra type of enemies. Chance based.
-5) Potion of Acrobat - > provides with climbing enhancing effect.
-6) Potion of Holy Aura - > provides with ability to destroy undead enemies. Chance based.
-7) Potion of Arcane Protection - > provides with spell resistance effect.
-8) Potion of Forge - > allow character to temporarily create items.
-9) Potion of Shielding - > functions in similar way to "shield" spell, but with potion benefits / restrictions.
-10) Potion of Magic Absorption - > provides user with effect similar to "spell absorption" effect. 
-11) Potion of Magicka Renewal - > provides with one-time spell points replenishing effect.
-12) Potion of Magicka Regeneration - > provides with magicka replenishing over time effect.
+4) Potion of Banishment - > provides with ability to destroy daedra type of enemies. Chance based.
+5) Potion of Climbing - > provides with climbing enhancing effect.
+6) Potion of Light - > provides with ability to destroy undead enemies. Chance based.
+7) Potion of Spell Resistence - > provides with spell resistance effect.
+8) Potion of Weapon Smith - > allow character to temporarily create items.
+9) Potion of Shield - > functions in similar way to "shield" spell, but with potion benefits / restrictions.
+10) Potion of Spell Absorption - > provides user with effect similar to "spell absorption" effect. 
+11) Potion of Magicka - > provides with one-time spell points replenishing effect.
+12) Potion of Regenerate - > provides with magicka replenishing over time effect.
 
 **COMPATIBILITY:**
 This mod should have no clear issues with compatibility, as mod simply adds new items into the game.
